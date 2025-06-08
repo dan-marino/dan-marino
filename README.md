@@ -1,16 +1,25 @@
-## Hi there 👋
+## Greetings 😎
 
-<!--
-**dan-marino/dan-marino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Platform Engineer @Ibotta primarily focused in Databricks, AWS, and Node, building out strong backend solutions for an internal data analytics tool.
 
-Here are some ideas to get you started:
+### 📚 I’m learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div display="flex">
+  <img src="https://img.shields.io/badge/eleventy-2F3134?style=for-the-badge&logo=eleventy&logoColor=white" alt="Eleventy"/>
+</div>
+
+### 📱 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/daniel-marino-software-engineer/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://danfromqueens.com/">
+    <img src="https://img.shields.io/badge/Website-485e37?style=for-the-badge&logo=linkedin&logoColor=white" alt="Personal Website"/>
+  </a>
+</div>
+
+
+### ⚡ My Skills
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,py,ruby,rails,aws,postgres,react,express,github,html,css,linux,nginx,nodejs,eleventy)
