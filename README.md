@@ -11,7 +11,7 @@ I'm a Senior Platform Engineer @Ibotta primarily focused in Databricks, AWS, and
 ### 📱 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/daniel-marino-software-engineer/">
+  <a href="https://www.linkedin.com/in/dan-marino-swe/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://danfromqueens.com/">
