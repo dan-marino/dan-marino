@@ -15,7 +15,10 @@ I'm a Senior Platform Engineer @Ibotta primarily focused in Databricks, AWS, and
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://danfromqueens.com/">
-    <img src="https://img.shields.io/badge/Website-485e37?style=for-the-badge&logo=linkedin&logoColor=white" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/Dev%20Website-d86f36?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dev Website"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Personal%20Website-485e37?style=for-the-badge&logo=linkedin&logoColor=white" alt="Personal Website"/>
   </a>
 </div>
 
