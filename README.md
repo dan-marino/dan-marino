@@ -22,4 +22,4 @@ I'm a Senior Platform Engineer @Ibotta primarily focused in Databricks, AWS, and
 
 ### ⚡ My Skills
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,py,ruby,rails,aws,postgres,react,express,github,html,css,linux,nginx,nodejs,eleventy)
+![My Skills](https://skillicons.dev/icons?i=ts,js,py,ruby,rails,aws,terraform,postgres,react,github,html,css,linux,nodejs)
