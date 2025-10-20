@@ -1,6 +1,10 @@
 ## Greetings 😎
 
-I'm a Senior Platform Engineer @Ibotta primarily focused in Databricks, AWS, and Node, building out strong backend solutions for an internal data analytics tool.
+I'm currently an Engineering Manager at [Ibotta](https://ibotta.com/), managing a team of seven engineers that are focused on affiliate integrations and making the [Ibotta App](https://ipn.ibotta.com/) a partner on the [IPN](https://ipn.ibotta.com/).
+
+Before that, I was a Senior Platform Engineer primarily focused in Databricks, AWS, and Node, building out strong backend solutions for an internal data analytics tool.
+
+And before that, I built [Haven](https://haven-secrets.github.io/), a Secrets Manager for Node applications.
 
 ### 📚 I’m learning
 
