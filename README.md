@@ -14,7 +14,7 @@ I'm a Senior Platform Engineer @Ibotta primarily focused in Databricks, AWS, and
   <a href="https://www.linkedin.com/in/dan-marino-swe/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/dan-marino/dev-site">
+  <a href="https://danmarino.dev/">
     <img src="https://img.shields.io/badge/Dev%20Website-d86f36?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dev Website"/>
   </a>
   <a href="https://danfromqueens.com/">
